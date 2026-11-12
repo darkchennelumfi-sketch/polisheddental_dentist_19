@@ -1,0 +1,2060 @@
+{
+  "office/why-choose-us": {
+    "title": "Why Choose Us?",
+    "banner": "/images/behrendt-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "The majority of our new patient referrals come from our patients. We strive to make your experience with us as comfortable and welcoming as possible by treating each individual patient with attention and respect and by providing individualized treatment plans that meet your specific dental needs and desires."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Convenient location",
+          "Attention to customer satisfaction",
+          "Comfortable office with a fireplace",
+          "Professional atmosphere",
+          "Free WiFi",
+          "Televisions in the treatment areas",
+          "Children’s play area",
+          "Up-to-date modern technology",
+          "Digital X-rays",
+          "Friendly team",
+          "High-qualified doctors",
+          "CEREC single-visit crowns"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/storms-why-choose-us.jpg",
+        "alt": "Storms-why choose us"
+      }
+    ],
+    "related": []
+  },
+  "office/office-policies": {
+    "title": "Office Policies",
+    "banner": "/images/william1-resized.jpg",
+    "blocks": [
+      {
+        "type": "h2",
+        "html": "Our Mission"
+      },
+      {
+        "type": "p",
+        "html": "It is our mission to give our patients the best care by communicating and fulfilling their dental needs in a comfortable, friendly and professional atmosphere."
+      },
+      {
+        "type": "h2",
+        "html": "Office Hours"
+      },
+      {
+        "type": "p",
+        "html": "We are open to serve you, answer questions or schedule an appointment during the following hours:"
+      },
+      {
+        "type": "p",
+        "html": "Monday – Thursday: 7:00 a.m. – 4:00 p.m.<br/> Friday: <em>morning emergency calls</em>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Summer Hours (June, July &amp; August)</strong><br/> Monday – Thursday: 7:00 a.m. – 3:30 p.m.<br/> Friday: <em>morning emergency calls</em>"
+      },
+      {
+        "type": "h2",
+        "html": "Appointments"
+      },
+      {
+        "type": "p",
+        "html": "Your scheduled appointment time has been reserved specifically for you. We request a 24-hour notice if you need to cancel or reschedule your appointment. We are aware that unforeseen events sometimes require missing an appointment; however, if we do not receive 24-hours notice an additional fee will be assessed."
+      },
+      {
+        "type": "h2",
+        "html": "Insurance"
+      },
+      {
+        "type": "p",
+        "html": "Our office is committed to helping you maximize your insurance benefits. Because insurance policies vary, we can only estimate your coverage in good faith but cannot guarantee coverage due to the complexities of insurance contracts. Your estimated patient portion must be paid at the time of service. As a service to our patients, we will bill insurance companies for services and allow them 45 days to render payment. After 90 days, you are responsible for the entire balance, paid-in-full. If you have any questions, our courteous staff is always available to answer them."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/william-office-policies.jpg",
+        "alt": "William-office policies"
+      }
+    ],
+    "related": []
+  },
+  "office/financial": {
+    "title": "Financial",
+    "banner": "/images/storms-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "We never want costs to stand in the way of quality treatment, which is why we are dedicated to providing our patients with care that is both effective and affordable. Your treatment plan will include a breakdown of all applicable fees, and we will inform you of all costs before treatment is administered. We offer a variety of payment options to meet your needs. We accept Visa, MasterCard, American Express and Discover. We also offer financing options through our office and <a href=\"https://carecredit.com/Pay/TXR737\" rel=\"nofollow\" returnvalue=\"http://www.carecredit.com/,,ExternalURL,_blank,,,false,false,false,false,,;NoWatch\" target=\"_blank\" title=\"CareCredit\">CareCredit</a>."
+      },
+      {
+        "type": "p",
+        "html": "If you have any questions about financing or payment, please ask us! We will thoroughly explain your choices and work hard to accommodate you."
+      },
+      {
+        "type": "h2",
+        "html": "Insurance"
+      },
+      {
+        "type": "p",
+        "html": "Our office is committed to helping you maximize your insurance benefits. Because insurance policies vary, we can only estimate your coverage in good faith but cannot guarantee coverage due to the complexities of insurance contracts."
+      },
+      {
+        "type": "p",
+        "html": "We accept and electronically submit all insurances, but are only a participating provider for the following carriers:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Blue Cross Blue Shield of ND",
+          "United Concordia (National Fee For Service &amp; Concordia Advantage)",
+          "Delta Dental (Premier)"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "When you first visit our office, bring your current insurance card with you. If you change insurance companies or join another employer's plan, please be sure to let us know. If an insurance referral is necessary, please bring the completed form with you to your appointment."
+      },
+      {
+        "type": "p",
+        "html": "We will fully attempt to help you receive full insurance benefits; however, you are personally responsible for your account, and we encourage you to contact us if your policy has not paid within a reasonable timeframe. If we are not contracted under your insurance, you will be given a copy of services and charges to file with your insurance claim form."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/monsignor-shea-financial.jpg",
+        "alt": "Monsignor Shea-financial"
+      }
+    ],
+    "related": []
+  },
+  "office/map-and-directions": {
+    "title": "Map and Directions",
+    "banner": "/images/christina-and-brent-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "For customized driving directions, please use the interactive map below. Simply click on the red indicator on the map, then click on \"Get Directions\"."
+      },
+      {
+        "type": "p",
+        "html": "To switch between Map View and Satellite View, click on the Choose View icon \"\" at the bottom right and select the corresponding \"Map\" or \"Satellite\" button option. You can also zoom in and out using \"+\" or \"-\" buttons."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "<section id=\"ctl11_ppContentContainers_blWidgetContainer_widget_lvLocations_ctrl0_secLocation\"> <h4> Polished Dental </h4> <p> 1700 E. Interstate Ave.<br/> Bismarck, ND 58503 </p> </section>"
+        ]
+      }
+    ],
+    "images": [],
+    "related": []
+  },
+  "patient/first-visit": {
+    "title": "First Visit",
+    "banner": "/images/william2-resized5285.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "As a new patient at Polished Dental, we want you to feel comfortable in our office. Our team will take this opportunity to better understand your needs and concerns regarding your oral health. During this complete exam we will begin by taking the necessary diagnostic X-rays (which includes a panoramic and full mouth series) and check for periodontal disease. The dentist will provide a thorough examination by performing an oral cancer screening, evaluating the condition of the temporomandibular joint, and looking at the overall condition of teeth and gums. The dental hygienist will discuss the type of prophylaxis (cleaning) that is needed as well as provide oral hygiene instructions."
+      },
+      {
+        "type": "p",
+        "html": "After this information is gathered, our treatment coordinator will go over a treatment plan with you in our office to discuss any treatment that needs to be completed. Please allow up to two hours for this initial visit, to allow our dental team to get a complete history of your oral health. Due to different levels of periodontal treatment, it is usually not feasible to complete a dental cleaning at this first appointment. If there are no signs of gingivitis or periodontal disease, we will try and accommodate a cleaning at the first appointment if time allows."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/schoch-amjs-18.jpg",
+        "alt": "Schoch AMJS-18"
+      }
+    ],
+    "related": []
+  },
+  "patient/brushing-and-flossing": {
+    "title": "Brushing and Flossing",
+    "banner": "/images/bill-and-karen-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "The cornerstone to a good at-home oral hygiene regimen is proper brushing and flossing. Practicing excellent dental hygiene avoids unhealthy teeth and costly dental treatments."
+      },
+      {
+        "type": "h2",
+        "html": "Brushing"
+      },
+      {
+        "type": "p",
+        "html": "Use a toothbrush with soft bristles and a small strip of fluoride toothpaste. When you brush your teeth, move the brush in small, circular motions to reach food particles that may be under your gum line. Hold the toothbrush at an angle and brush slowly and carefully, covering all areas between teeth and the surface of each tooth. It will take you several minutes to thoroughly brush your teeth. Brush up on the lower teeth, down on the upper teeth and the outside, inside and chewing surface of your front and back teeth. Brush your tongue and the roof of your mouth before you rinse."
+      },
+      {
+        "type": "p",
+        "html": "Brush your teeth four times daily to avoid the accumulation of food particles and plaque:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "In the morning after breakfast",
+          "After lunch or right after school",
+          "After dinner",
+          "At bedtime"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Do not swallow any toothpaste, and rinse your mouth thoroughly with water after you finish brushing. As soon as the bristles start to wear down or fray, replace your toothbrush with a new one."
+      },
+      {
+        "type": "h2",
+        "html": "Flossing"
+      },
+      {
+        "type": "p",
+        "html": "For areas between the teeth that a toothbrush can't reach, dental floss is used to remove food particles and plaque. Dental floss is a thin thread of waxed nylon that is used to reach below the gum line and clean between teeth. It is very important to floss between your teeth every day."
+      },
+      {
+        "type": "p",
+        "html": "Pull a small length of floss from the dispenser. Wrap the ends of the floss tightly around your middle fingers. Guide the floss between all teeth to the gum line, pulling out any food particles or plaque. Unwrap clean floss from around your fingers as you go so that you have used the floss from beginning to end when you finish. Floss behind all of your back teeth."
+      },
+      {
+        "type": "p",
+        "html": "Floss at night to make sure your teeth are clean before you go to bed. When you first begin flossing, your gums may bleed a little. If the bleeding does not stop after the first few times flossing, let a staff member know at your next appointment."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/brush.png",
+        "alt": "brush.png"
+      },
+      {
+        "src": "/images/floss.png",
+        "alt": "brush.png"
+      }
+    ],
+    "related": []
+  },
+  "patient/emergencies": {
+    "title": "Emergencies",
+    "banner": "/images/olson-resized.jpg",
+    "blocks": [
+      {
+        "type": "h2",
+        "html": "Tooth Ache"
+      },
+      {
+        "type": "p",
+        "html": "Begin by meticulously cleaning around the sore tooth. Using warm salt water, rinse the mouth to displace any food trapped between teeth. Do not use aspirin on the aching tooth or on the gum. If you have facial swelling, apply a cold compress to the area. For temporary pain relief, acetaminophen is recommended. If the pain persists more than a day, please contact us."
+      },
+      {
+        "type": "h2",
+        "html": "Cut or Bitten Tongue, Lip or Cheek"
+      },
+      {
+        "type": "p",
+        "html": "Ice can be applied to any bruised areas. For bleeding, apply firm (but gentle) pressure with sterile gauze or a clean cloth. If the bleeding does not stop with pressure, or continues longer than 15 minutes, please go to the nearest emergency room."
+      },
+      {
+        "type": "h2",
+        "html": "Broken Tooth"
+      },
+      {
+        "type": "p",
+        "html": "Recover any of the broken tooth fragments. Rinse the area with warm water, and apply a cold compress over the facial area of the injury. Please seek immediate dental attention."
+      },
+      {
+        "type": "h2",
+        "html": "Knocked Out Permanent Tooth"
+      },
+      {
+        "type": "p",
+        "html": "Recover the tooth, making sure to hold it by the crown (top) and not the root. Rinse, but do not clean or handle the tooth more than necessary. Reinsert the tooth into the socket, and hold it in place using a clean piece of gauze or cloth. If the tooth cannot be reinserted, carry it in a cup of milk. Time is essential, so see a dentist immediately."
+      },
+      {
+        "type": "h2",
+        "html": "Possible Broken Jaw"
+      },
+      {
+        "type": "p",
+        "html": "In the event of a jaw injury, tie the mouth closed with a towel, tie or handkerchief. Go immediately to the nearest emergency room."
+      },
+      {
+        "type": "h2",
+        "html": "Bleeding After a Baby Tooth Falls Out"
+      },
+      {
+        "type": "p",
+        "html": "Fold a piece of gauze, and place it (tightly) over the bleeding area. Bite down on the gauze for 15 minutes. If the bleeding continues, please see a dentist."
+      },
+      {
+        "type": "h2",
+        "html": "Cold or Canker Sores"
+      },
+      {
+        "type": "p",
+        "html": "Over-the-counter medications will usually provide temporary relief. If the sores persist, visit your dentist."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/bill-and-karen-emergencies.jpg",
+        "alt": "Bill and Karen-emergencies"
+      }
+    ],
+    "related": []
+  },
+  "patient/oral-hygiene-for-kids": {
+    "title": "Oral Hygiene for Kids",
+    "banner": "/images/boston-and-lincoln-45.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Teeth can last a lifetime if you take care of them right — and the best time to start is just as soon as they begin appearing. By establishing good oral hygiene routines for your children right from the start, you'll give them the best chance of keeping their teeth healthy — forever."
+      },
+      {
+        "type": "p",
+        "html": "Tooth decay, the major cause of dental trouble that can eventually lead to tooth loss, is actually an infectious disease caused by bacteria. If it takes hold, it can form a cavity in the enamel and then progress deeper into the tooth — causing discomfort, difficulty eating and speaking, and a need for fillings or root canal treatment. The good news is that tooth decay (also called caries) is preventable."
+      },
+      {
+        "type": "p",
+        "html": "The primary route to good dental health is plaque removal. Plaque is the sticky, whitish film that builds up on teeth in the absence of effective oral hygiene. Decay-causing bacteria thrive in plaque, where they break down any sugar that lingers in the mouth. In the process, they produce acid byproducts that erode teeth. This is how a cavity begins. What are the most effective techniques for plaque removal and decay prevention? That depends on the age of your child."
+      },
+      {
+        "type": "h2",
+        "html": "Babies"
+      },
+      {
+        "type": "p",
+        "html": "Babies can develop a form of tooth decay known as early childhood caries. This occurs when they are allowed to go to sleep with a bottle that's filled with anything but water. The sugars in formula, milk (even breast milk) and juice can pool around the teeth and feed decay-causing bacteria. When it comes to bedtime soothing, a pacifier or bottle filled with water is safer for developing teeth — that is, until about age 3. At that point, sucking habits should be gently discouraged to prevent orthodontic problems from developing later on."
+      },
+      {
+        "type": "p",
+        "html": "Brush your baby's first teeth gently with a small, soft-bristled toothbrush, using just a thin smear of fluoride toothpaste, at least once a day at bedtime. Before a tooth is fully erupted, you can use a water-soaked gauze pad to clean around the tooth and gums."
+      },
+      {
+        "type": "p",
+        "html": "Bring your child in to see us by age 1. We can demonstrate proper hygiene techniques; look for signs of early decay; and recommend fluoride supplementation if needed."
+      },
+      {
+        "type": "h2",
+        "html": "Children"
+      },
+      {
+        "type": "p",
+        "html": "Starting at age 3, you can begin teaching your child to brush with a children's toothbrush and no more than a pea-sized amount of fluoride toothpaste. But remember, children will need help with this important task until about age 6, when they have the fine motor skills to do an effective job themselves."
+      },
+      {
+        "type": "p",
+        "html": "It's also extremely important to start encouraging healthy dietary habits at this time. Your child will have less plaque buildup and decay if you place limits on soda and sugary snack consumption. As a parent, you can model this behavior to instill it in your child. After all, monkey see, monkey do! Any sugary treats that are allowed should come at mealtimes, not in between. This will ensure your child is not creating favorable conditions for oral bacteria to grow around the clock."
+      },
+      {
+        "type": "p",
+        "html": "At your child's regular, twice-yearly dental checkups and cleanings, we can apply topical fluoride to strengthen tooth enamel and make it more resistant to erosion and decay. If necessary, we can also apply dental sealants to the back teeth (molars) to prevent food particles and bacteria from building up in the tiny grooves where a toothbrush can't reach <a href=\"/pediatric-dentistry/dental-sealants\">View our dental sealants page</a>."
+      },
+      {
+        "type": "h2",
+        "html": "Teens"
+      },
+      {
+        "type": "p",
+        "html": "At this point, your children have the primary responsibility for maintaining their day-to-day dental health — but you can continue to help them make good dietary and behavioral choices. These include drinking plenty of water and avoiding soda, sports drinks and energy drinks, all of which are highly acidic; avoiding tobacco and alcohol; and continuing to visit our office regularly for cleanings and exams. This is particularly important if your teen wears braces, which can make it more difficult to keep teeth clean."
+      },
+      {
+        "type": "p",
+        "html": "Remember, we are always here to answer questions and to help your child continue to develop good oral hygiene habits that will last a lifetime."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/schoch-amjs-18.jpg",
+        "alt": "Schoch AMJS-18"
+      },
+      {
+        "src": "/images/age-one-dental-visit-play.jpg",
+        "alt": "Age One Dental Visit video"
+      },
+      {
+        "src": "/images/tooth-tips-for-tots-play.jpg",
+        "alt": "Tooth tips for tots video"
+      },
+      {
+        "src": "/images/dentistry-oral-health-dear-doctor.jpg",
+        "alt": "Dentistry and Oral Health for Children - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/oral-health-dear-doctor.jpg",
+        "alt": "Oral Health - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/oral-health-tips-dear-doctor.jpg",
+        "alt": "Top 10 Tips for Children - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Dentistry and Oral Health for Children",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue19&startid=24",
+        "excerpt": "Dear Doctor magazine brings you this wide-ranging overview of milestones and transitions in your child's dental development. Learn how to protect your children from tooth decay, dental injuries, and unhealthy habits whil"
+      },
+      {
+        "title": "How to Help Your Child Develop the Best Habits for Oral Health",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue20&startid=48",
+        "excerpt": "Proper oral health habits are easy to learn — and lead to behaviors that result in lifelong dental health. And the time to begin is as soon as your child's first baby teeth appear. From toothbrushing for your toddler to "
+      },
+      {
+        "title": "Top 10 Oral Health Tips for Children",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue19&startid=16",
+        "excerpt": "There's no need to wait until your baby actually has teeth to lay the foundations for good oral or general health. In fact, good nutrition and oral hygiene can start right away. It is up to you to develop the routines th"
+      }
+    ]
+  },
+  "patient/periodontal-gum-disease": {
+    "title": "Periodontal Gum Disease",
+    "banner": "/images/schoch-resized1.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "While you may think that some loss of teeth is inevitable as we age, it is actually possible for all of your teeth to last a lifetime. One of the ways you can achieve this goal is to avoid periodontal disease (\"peri\" - around; \"odont\" - tooth), which is caused by bacteria that attack the tissues around the teeth. Unfortunately, you may not even realize you have gum disease as the signs and symptoms are not always as apparent to you as they are to a dental professional."
+      },
+      {
+        "type": "p",
+        "html": "Nearly all people who do not maintain good daily oral hygiene will develop gingivitis. If left untreated, this bacterial gum infection can progress from gingivitis (\"gingival\" - gum; \"itis\" - inflammation) to periodontitis, which results in bone loss around your teeth. As the bone tissue is lost, the gum tissues detach from the teeth and form little pockets that provide an even better place for bacteria to live — where your brush and floss can't reach. As periodontal disease advances leading to more bone loss, tooth loss can result. Part of this has to do with genetics, as periodontal disease tends to run in families. The good news is that periodontal disease can be controlled, even at more advanced stages."
+      },
+      {
+        "type": "h2",
+        "html": "Signs and Symptoms"
+      },
+      {
+        "type": "p",
+        "html": "It's important to understand that you can have periodontal disease with no obvious symptoms, especially if you are a smoker (nicotine reduces blood supply preventing bleeding and swelling of the gum tissues). Still, there are some important things to look for:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "<strong>Bleeding gums</strong> — Some people think that when their gums bleed, it simply means they're brushing too hard. While brushing too hard is bad for the gums, it should not cause bleeding. Any bleeding of the gums should be considered a warning sign of gum disease.",
+          "<strong>Bad breath</strong> — It's very easy for plaque to collect in the spaces between the teeth, creating the perfect living conditions for bacteria that produce odorous, sulfur-containing compounds, resulting in bad breath.",
+          "<strong>Redness or swelling of gums</strong> — Inflammation of the gums is usually the first visible sign of periodontal disease.",
+          "<strong>Receding gums</strong> — If you notice that your teeth look longer than they used to, it may be that your gum tissue has receded (away from the enamel), exposing some of your tooth roots.",
+          "<strong>Sensitivity</strong> — If there is gum recession, the exposed roots may become sensitive to hot or cold.",
+          "<strong>Periodontal abscess</strong> — Bacteria can become enclosed in a periodontal pocket and the area will fill with pus, becoming swollen and painful.",
+          "<strong>Loose teeth</strong> — When periodontal disease results in bone loss, teeth can become loose or migrate. Tooth loss can result and may be accelerated if you are applying excessive biting forces from clenching or grinding your teeth."
+        ]
+      },
+      {
+        "type": "h2",
+        "html": "Treatment Options"
+      },
+      {
+        "type": "p",
+        "html": "All periodontal therapy starts with the evaluation of your oral hygiene techniques and instruction for improving them, followed by the mechanical removal of plaque and any calcified deposits (tartar or calculus) that are present on the root surfaces. This is accomplished with a cleaning technique known as scaling, root planing or debridement using hand instruments and/or ultrasonic (high frequency vibrational) instruments. Locally applied antimicrobial products or antibiotics might also be recommended during various parts of periodontal treatment to assist in healing and pocket-depth reduction, hopefully eliminating the need for periodontal surgery. Sometimes surgical procedures may be necessary to remove the deep pockets that form between inflamed gum tissue and teeth. There are many different types of surgery to handle a variety of problems. And many times, combinations of procedures are used to attempt to reduce the number of surgeries as well as the cost of treatment."
+      },
+      {
+        "type": "h2",
+        "html": "Gum Disease &amp; Overall Health"
+      },
+      {
+        "type": "p",
+        "html": "Periodontal disease occurs in your mouth but seems to be linked to more serious conditions in other parts of the body, such as cardio-vascular disease (CVD), diabetes and preterm births. While the exact nature of the connection is unclear, it appears that moderate to severe periodontal disease increases the level of systemic (bodily) inflammation — a characteristic of all chronic inflammatory diseases. Also, the same bacterial strains that are commonly found in periodontal pockets surrounding diseased teeth have been found in blood vessel plaques of individuals with CVD. Therefore, controlling periodontal inflammation may help to reduce systemic inflammation."
+      },
+      {
+        "type": "h2",
+        "html": "Preventive Strategies"
+      },
+      {
+        "type": "p",
+        "html": "The best way to prevent periodontal disease is to brush and floss your teeth effectively every day. In fact, regular dental checkups and professional cleanings every 3, 4 or 6 months (as recommended by your dentist) are also an important part of maintaining periodontal health; the instruments and techniques used in these cleanings can reach into areas that your toothbrush and floss can't."
+      },
+      {
+        "type": "p",
+        "html": "We can also detect early forms of gum disease by evaluating your gingival (gum) tissues, both visually and by examining their attachment levels to the teeth. And we can assess the health of your tooth-supporting bone by taking dental radiographs (x-rays pictures)."
+      },
+      {
+        "type": "p",
+        "html": "There are other steps you can take: Eating right, reducing stress in your life, and giving up unhealthy habits like smoking will also help ensure that you keep your teeth for a lifetime."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/periodontal-disease.jpg",
+        "alt": "Periodontal Disease."
+      },
+      {
+        "src": "/images/top-5-symptoms-of-gum-disease-play.jpg",
+        "alt": "Top 5 Symptoms of Gum Disease video"
+      },
+      {
+        "src": "/images/periodontal-therapy-play.jpg",
+        "alt": "Periodontal Therapy video"
+      },
+      {
+        "src": "/images/gum-disease-can-affect-body.jpg",
+        "alt": "Periodontal Disease Can Affect Your Heart and Body."
+      },
+      {
+        "src": "/images/gum-disease-dear-doctor.jpg",
+        "alt": "Periodontal (Gum) Disease - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/heart-gum-disease-dear-doctor.jpg",
+        "alt": "Link Between Heart and Gum Disease - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/periodontal-plastic-surgery-dear-doctor.jpg",
+        "alt": "Periodontal Plastic Surgery - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/pregnancy-dear-doctor.jpg",
+        "alt": "Pregnancy and Oral Health - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Understanding Gum (Periodontal) Disease",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue2&startid=50",
+        "excerpt": "Have your gums ever bled when you brushed or flossed? This most commonly overlooked simple sign may be the start of a silent progressive disease leading to tooth loss. Learn what you can do to prevent this problem and ke"
+      },
+      {
+        "title": "The Link Between Heart & Gum Diseases",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue16&startid=58",
+        "excerpt": "Inflammation has emerged as a factor in the process of cardiovascular disease (CVD), which commonly results in heart attacks and strokes. While the precise role inflammation plays in causing chronic CVD remains an area o"
+      },
+      {
+        "title": "Periodontal Plastic Surgery",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue18&startid=58",
+        "excerpt": "Millions of Americans have some degree of gum recession — a loss of the tough, pink tissue that surrounds teeth. Receding gums can cause anything from minor tooth sensitivity to tooth loss in very severe cases. Fortunate"
+      },
+      {
+        "title": "Pregnancy & Oral Health",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue9&startid=28",
+        "excerpt": "Pregnancy is generally thought of as the time when a woman strives to be particularly aware of the need for better health. Many women, though, may not be aware of the link that exists between their oral health and their "
+      }
+    ]
+  },
+  "patient/digital-x-rays": {
+    "title": "Digital X-Rays",
+    "banner": "/images/tim-and-sharon-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "It's almost impossible to imagine the practice of dentistry without x-ray technology. Radiographs (x-ray pictures) allow dentists to diagnose and treat problems not yet visible to the naked eye, including early tooth decay, gum disease, abscesses and abnormal growths. There is no question that since x-rays first became available a century ago, this diagnostic tool has prevented untold suffering and saved countless teeth. Now, state-of-the-art digital x-rays have made the technology even safer and more beneficial."
+      },
+      {
+        "type": "p",
+        "html": "Digital x-ray technology uses a small electronic sensor placed in the mouth to capture an image, which can be called up instantly on a computer screen. When digital x-rays first became available about 20 years ago, they immediately offered a host of advantages over traditional x-ray films, which require chemical processing. Most importantly, they cut the amount of radiation exposure to the dental patient by as much as 90%. While faster x-ray films have been developed over the years that require less exposure, making that difference less dramatic, a digital x-ray still offers the lowest radiation dose possible."
+      },
+      {
+        "type": "h2",
+        "html": "Advantages of Digital X-Rays"
+      },
+      {
+        "type": "p",
+        "html": "Besides minimizing radiation exposure, digital x-rays offer numerous advantages to dentists and patients alike. These include:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "<strong>No chemical processing &amp; no waiting.</strong> Because there is no film to process with digital x-rays, there is no waiting for pictures to develop — and no toxic chemicals to dispose of. Your dentist can immediately show you the pictures on a computer screen for easy viewing.",
+          "<strong>A clearer picture.</strong> It's possible to get more information from digital x-rays because they are sharper and can be enhanced in a number of ways. The contrast can be increased or decreased, and areas of concern can be magnified. It's even possible to compare them on-screen to your previous x-rays, making even the minutest changes to your tooth structure easier to detect.",
+          "<strong>Easy sharing and storage.</strong> Digital x-rays provide a better visual aide for you, the patient, to understand your diagnosis and treatment options. They can be e-mailed to different locations; they are also far less likely to be misplaced."
+        ]
+      },
+      {
+        "type": "h2",
+        "html": "X-Rays and Your Safety"
+      },
+      {
+        "type": "p",
+        "html": "While digital technology has minimized the health risks of x-rays, it has not entirely eliminated it. X-rays are a type of radiation used to penetrate the tissues of the body to create an image. In doing so, there is always a slight possibility of causing changes at the cellular level that might lead to future disease. Of course, there are sources of radiation present in the daily environment — the sun, for example — that can also cause disease. It's important to note that the chance of this happening is thought to be cumulative and not based on a single exposure. Still, x-rays are not considered risk-free regardless of how technology reduces your exposure. That's why dentists will only use them when the benefit of obtaining better diagnostic information outweighs the procedure's small risk. This is particularly true of computed tomography or CT scans, which can raise the level of exposure, yet yield a tremendous amount of information per scan. No matter which technology is being used, each case is considered individually, and your safety is always paramount. If you have questions about why an x-ray is being recommended for you, please feel free to ask."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/digital-x-rays.jpg",
+        "alt": "Digital X-Rays."
+      },
+      {
+        "src": "/images/x-ray-dear-doctor.jpg",
+        "alt": "X-Ray Safety For Children - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/cone-beam-dear-doctor.jpg",
+        "alt": "Cone Beam Dental Scans - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "X-Ray Safety For Children",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue23&startid=68",
+        "excerpt": "Nearly every diagnostic testing procedure carries some risk, so it's always important for you and your healthcare provider to weigh the benefits against the risks. This is particularly true when it comes to children, who"
+      },
+      {
+        "title": "Getting The Full Picture With Cone Beam Dental Scans",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue23&startid=60",
+        "excerpt": "Dental imaging took a major leap forward at the beginning of the new millennium with a three-dimensional technology known as cone beam computed tomography (CBCT). The name comes from the cone-shaped beam of x-rays the CB"
+      }
+    ]
+  },
+  "treatment/general-treatment": {
+    "title": "General Treatment",
+    "banner": "/images/monsignor-shea-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Our practice can provide a wide range of dental services. We can typically provide every type of dental service without having to refer you to other specialties. This flexibility saves you time and keeps your total dental care within one practice. Our emphasis is on total preventive care for our patients."
+      },
+      {
+        "type": "h2",
+        "html": "Dental Examination"
+      },
+      {
+        "type": "p",
+        "html": "We will thoroughly examine your teeth and gums, specifically looking for any potential problems. Depending on the patient, X-rays may be taken. If there are any signs of decay or other problems, we will recommend treatment options and make notes of any conditions that may need future observation. Oral hygiene instructions will also be provided along with suggestions to help you care for your teeth."
+      },
+      {
+        "type": "h2",
+        "html": "Routine Teeth Cleanings"
+      },
+      {
+        "type": "p",
+        "html": "Twice a year, you should schedule a routine dental cleaning. During this visit, one of our dental hygienists will remove plaque from your teeth, especially from places where your brush can't reach, such as underneath the gum line and between teeth. We will then clean your teeth and apply fluoride to help protect your teeth once you leave the office."
+      },
+      {
+        "type": "h2",
+        "html": "Fillings"
+      },
+      {
+        "type": "p",
+        "html": "Fillings replace damaged or decayed tooth structure with a restorative material. There are several different types of filling materials, including:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "<strong>Silver amalgam:</strong> Silver was once the most commonly used material when it came to dental restorations, such as fillings. However, silver fillings do not have much aesthetic appeal to patients.",
+          "<strong>Gold fillings:</strong> Gold fillings are very durable, able to last approximately 10 to 15 years. The main drawback to gold fillings is the cost of the restoration, since gold is a precious metal.",
+          "<strong>White fillings:</strong> After much research, some new tooth-colored materials have been developed that are stronger, longer-lasting and more aesthetically pleasing to our patients. These new tooth-colored fillings bond directly to the tooth, strengthening it by restoring most of its original shape. The fillings can even be custom-colored to match your teeth to help give you the most natural-looking smile possible."
+        ]
+      },
+      {
+        "type": "h2",
+        "html": "Crowns"
+      },
+      {
+        "type": "p",
+        "html": "A crown is a custom-made covering that fits over an original tooth that is either decayed, damaged or cracked. Crowns are made of a variety of different materials such as porcelain, gold, acrylic resin or a mix of these materials."
+      },
+      {
+        "type": "p",
+        "html": "The treatment plan for a patient receiving a crown usually involves:"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "Numbing the tooth to remove the decay in or around it",
+          "Re-sculpturing the tooth to provide an ideal fit for the crown",
+          "Making a physical or digital impression of your teeth in order to create the custom crown",
+          "Making a temporary crown out of acrylic resin and fitting it to the tooth while the custom crown is being made",
+          "Removing the temporary crown and fitting the custom-made one onto the tooth",
+          "Ensuring that the crown has the proper look and fit, and cementing it into place"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "New technologies have greatly reduced the time needed to make strong, natural-looking crowns. Once the procedure is completed, proper care should be taken to ensure the crown remains in good condition and the teeth and gums are healthy. Given proper care, your crowns can last a lifetime!"
+      },
+      {
+        "type": "h2",
+        "html": "Bridges"
+      },
+      {
+        "type": "p",
+        "html": "A bridge is a dental device that fills a space that a tooth previously occupied. A bridge may be necessary to prevent the shifting of teeth, to fix bite problems or to ensure the strength and integrity of the surrounding teeth."
+      },
+      {
+        "type": "p",
+        "html": "Fixed bridges are the most popular, and consist of a filler tooth attached to two crowns in order to hold the bridge in place. \"Maryland\" bridges, commonly used to replace missing front teeth, use tooth-colored metal bands bonded to surrounding teeth. And cantilever bridges use two crowned teeth positioned next to each other on the same side of the missing tooth."
+      },
+      {
+        "type": "p",
+        "html": "Regardless of your needs, we have a bridge solution that will work best!"
+      },
+      {
+        "type": "h2",
+        "html": "Root Canals"
+      },
+      {
+        "type": "p",
+        "html": "A root canal is a procedure that extracts decayed tissue from inside a tooth, reshapes the canal and replaces it with strengthened filler. There are a number of reasons a root canal may be necessary, including dental injuries, severe decay and infection or inflammation in the tooth pulp. When left untreated, these problems can cause extensive damage to the tooth structure."
+      },
+      {
+        "type": "p",
+        "html": "Root canals can typically be completed in one visit, although more extensive cases may require another appointment. You will also be able to drive yourself home after the appointment."
+      },
+      {
+        "type": "h2",
+        "html": "Tooth Extractions"
+      },
+      {
+        "type": "p",
+        "html": "An extraction is the complete removal of a tooth. Extractions are sometimes necessary if:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "A primary tooth is preventing the normal eruption of a permanent tooth",
+          "The tooth has suffered extensive tooth decay or trauma that cannot be repaired",
+          "The patient has gum disease",
+          "The tooth is impacted – this is usually the case with the third molars, or “wisdom teeth,” as they erupt years after the other teeth and often have insufficient room in the jaw"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Depending on the complexity of the case, an extraction can be performed surgically or non-surgically. A mild anesthesia is used to ensure the patient is as comfortable as possible throughout the procedure."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/christina-and-brent-general-tx.jpg",
+        "alt": "Christina and Brent-general tx"
+      }
+    ],
+    "related": []
+  },
+  "treatment/tmj-disorders": {
+    "title": "TMJ Disorders",
+    "banner": "/images/schoch-resized1.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "If you experience ongoing pain in the area near your ear, your jaw or the muscles on the side of your face, possibly accompanied by a clicking or popping sound or restricted jaw movement, you may be suffering from TMD — an abbreviation for Temporomandibular disorders. Sometimes people incorrectly use the term TMJ to refer to these problems, when in fact TMJ is the abbreviation for the temporomandibular joint — or jaw joint — itself. So while you definitely have a TMJ (two of them in fact), you may or may not have TMD."
+      },
+      {
+        "type": "p",
+        "html": "TMD, then, describes a group of conditions characterized by pain and dysfunction of the TMJ and/or the muscles surrounding it. It's not always so easy to figure out exactly what's causing these symptoms, but the good news is that most TMD cases resolve themselves with the help of conservative remedies we will recommend for you to do at home. In fact, it's important to exhaust all such reversible remedies before moving on to anything irreversible, such as bridgework or surgery."
+      },
+      {
+        "type": "p",
+        "html": "The two TMJs that connect your lower jaw, the mandible, to the temporal bone of the skull on either side, are actually very complex joints that allow movement in three dimensions. The lower jaw and temporal bone fit together as a ball and socket, with a cushioning disk in between. Large pairs of muscles in the cheeks and temples move the lower jaw. Any of these parts — the disk, the muscles or the joint itself — can become the source of a TMD problem. If you are in pain, or are having difficulty opening or closing your jaw, we will do a thorough examination to try to pinpoint the problem area and suggest appropriate remedies."
+      },
+      {
+        "type": "h2",
+        "html": "Causes of TMD"
+      },
+      {
+        "type": "p",
+        "html": "As with any other joint, the TMJ can be subject to orthopedic problems including inflammation, sore muscles, strained tendons and ligaments, and disk problems. We also know that TMD is influenced by genes, gender (women appear to be more prone to it), and age. Physical and psychological stress can also be a factor. In some cases, jaw pain may be related to a more widespread, pain-inducing medical condition such as fibromyalgia (\"fibro\" - connective tissues; \"myo\" - muscle; \"algia\" - pain)."
+      },
+      {
+        "type": "h2",
+        "html": "Signs and Symptoms of TMD"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Clicking Sounds</strong> — Some people with TMD hear a clicking, popping or grating sound coming from the TMJ when opening or closing the mouth. This is usually caused by a shifting of the disk inside the joint. Someone standing next to you might even be able to hear it. Clicking by itself is actually not a significant symptom because one third of all people have jaw joints that click, studies show. However, if the clicking is accompanied by pain or limited jaw function — the jaw getting \"stuck\" in an open or closed position, for example — this would indicate TMD."
+      },
+      {
+        "type": "p",
+        "html": "<strong>Muscle Pain</strong> — This can be felt in the cheeks (masseter muscles) and temples (temporalis muscles), where the two big pairs of jaw-closing muscles are located. If you feel soreness and stiffness upon waking up in the morning, it's often related to habits such as clenching and/or grinding the teeth at night. If you have this type of nocturnal habit, we can have a nightguard custom-made for you that should be very helpful in decreasing the force applied to your teeth, which will in turn allow your muscles to relax and relieve pressure on your jaw joints. Other self-care remedies are discussed below (please see Relieving the Pain)."
+      },
+      {
+        "type": "p",
+        "html": "<strong>Joint Pain</strong> — Pain that's actually coming from one or both jaw joints technically would be described as arthritis (\"arth\" - joint; \"itis\" - inflammation) of the TMJ. When we look at radiographs (x-ray pictures) we find that some people have arthritic-looking TMJs but no symptoms of pain or dysfunction; others have significant symptoms of pain and dysfunction but their joints look normal on radiographs. There is no cure for arthritis anywhere in the body, but medication can sometimes help relieve arthritic symptoms."
+      },
+      {
+        "type": "h2",
+        "html": "Relieving the Pain"
+      },
+      {
+        "type": "p",
+        "html": "Once we examine you, we will come up with a strategy for treating your condition and managing your pain. Sometimes a temporary change to a softer diet can reduce stress on the muscles and joints. Ice and/or moist heat can help relieve soreness and inflammation. Muscles in spasm can also be helped with gentle stretching exercises. Non-steroidal anti-inflammatory medications and muscle relaxants can also provide relief."
+      },
+      {
+        "type": "h2",
+        "html": "Other Treatment Options"
+      },
+      {
+        "type": "p",
+        "html": "Severe TMD cases may require more complex forms of treatment, which might include orthodontics, dental restorations like bridgework, or minor procedures inside the joint such as cortisone injections or lavage (flushing) of the joint. It's rare for major surgery ever to be necessary in a case of TMD. Again, it's important to try the wide range of conservative, reversible treatments available, and give them enough time to work as they almost always prove effective. The first step is an examination here at our dental office. We don't want you to be in pain, so please come in and see us. To learn more about the treatment options available, view our <a href=\"/images/tmd-therapy-chart.jpg\">Chart on TMD Therapy</a>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/jaw-pain.jpg",
+        "alt": "TMJ Pain."
+      },
+      {
+        "src": "/images/tmj-joint.jpg",
+        "alt": "TMJ Joint."
+      },
+      {
+        "src": "/images/tmd-pain-cycle.jpg",
+        "alt": "TMD Muscle Pain Cycle."
+      },
+      {
+        "src": "/images/tmj-tmd-dear-doctor.jpg",
+        "alt": "TMD - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/tmd-dear-doctor.jpg",
+        "alt": "Relief from TMD - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "TMD - The Great Impostor",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue1&startid=56",
+        "excerpt": "This \"chameleon\" of dental disorders manifests in a variety of ways, including joint pain, sinusitus, ear pain, tooth and headaches. Dear Doctor magazine examines the causes of TMD, its signs and symptoms and what can be"
+      },
+      {
+        "title": "Seeking Relief From TMD",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue20&startid=34",
+        "excerpt": "TMD, or Temporomandibular Disorders, is an umbrella term for various painful conditions that affect the jaw joints. There are different treatment approaches to TMD problems, but not all are based on science. It's importa"
+      }
+    ]
+  },
+  "treatment/dental-implants": {
+    "title": "Dental Implants",
+    "banner": "/images/bill-and-karen-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "The dental implant is today's state-of-the-art tooth replacement method. It consists of a very small titanium post (the actual implant), which is attached to a lifelike dental crown. The crown is the only part of this tooth-replacement system that is visible in your mouth. The implant itself rests beneath your gum line in the bony socket that used to hold your missing tooth. Two, four or more implants can be used to support multiple crowns, or even an entire arch of upper or lower replacement teeth. Whether you are missing one tooth, several teeth or all your teeth, dental implants are preferred by doctors and patients alike. That's because dental implants are:"
+      },
+      {
+        "type": "h2",
+        "html": "Most Like Natural Teeth"
+      },
+      {
+        "type": "p",
+        "html": "Your natural teeth have roots that keep them securely anchored to your jawbone. In a similar way, implant teeth form a solid attachment with the bone in your jaw. This is possible because dental implants are made of titanium, a metal that has a unique ability to fuse to living bone. After an implant is inserted during a minor procedure done in the dental office, it will become solidly fused to your bone over a period of several months. Once that happens, your implant-supported replacement tooth (or teeth) will feel completely natural. It will also be visually indistinguishable from your natural teeth. Implant teeth allow you to eat, speak and smile with complete confidence because they will never slip or shift like removable dentures often do."
+      },
+      {
+        "type": "h2",
+        "html": "Last the Longest"
+      },
+      {
+        "type": "p",
+        "html": "Because dental implants actually become part of your jawbone, they provide a permanent solution to tooth loss. Whereas other methods of tooth replacement, including removable dentures and bridgework, may need to be replaced or remade over time, properly cared-for dental implants should last a lifetime. That's what makes this choice of tooth replacement the best long-term value."
+      },
+      {
+        "type": "h2",
+        "html": "Able to Help Prevent Bone Loss"
+      },
+      {
+        "type": "p",
+        "html": "You may not know it, but bone loss inevitably follows tooth loss. Bone is a living tissue that needs constant stimulation to rebuild itself and stay healthy. In the case of your jawbone, that stimulation comes from the teeth. When even one tooth is lost, the bone beneath it begins to resorb, or melt away. This can give your face a prematurely aged appearance and even leave your jaw more vulnerable to fractures if left untreated long enough. Dental implants can help stop this process by fusing to the jawbone and stabilizing it. No other tooth replacement method can offer this advantage."
+      },
+      {
+        "type": "h2",
+        "html": "Safe for Adjacent Teeth"
+      },
+      {
+        "type": "p",
+        "html": "Dental implants have no effect on the health of adjacent natural teeth; other tooth-replacement systems, however, can weaken adjacent teeth. With bridgework, for example, the natural teeth on either side of a gap left by a missing tooth must provide support for the dental bridge. This can stress those adjacent teeth and leave them more susceptible to decay. Likewise, a partial denture relies on adjacent natural teeth for support and may cause those teeth to loosen over time. Dental implants are stand-alone tooth replacements that don't rely on support from adjacent natural teeth."
+      },
+      {
+        "type": "h2",
+        "html": "Easy to Care For"
+      },
+      {
+        "type": "p",
+        "html": "Caring for implant teeth is no different than caring for your natural teeth. You must brush them and floss them daily. But you'll never have to apply special creams and adhesives, or soak them in a glass overnight, as you would with dentures. They'll also never need a filling or a root canal, as the natural teeth supporting bridgework might. While implants can never decay, they can be compromised by gum disease. Good oral hygiene and regular visits to the dental office for professional cleanings and exams is the best way to prevent gum disease, and to ensure your dental implants last a lifetime, as they're designed to do."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/dental-implants-candidate-play.jpg",
+        "alt": "Are You a Candidate for Dental Implants video"
+      },
+      {
+        "src": "/images/dental-implants-dear-doctor.jpg",
+        "alt": "Dental Implants - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/losing-teeth-dear-doctor.jpg",
+        "alt": "Losing Teeth - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Dental Implants - Your Best Option For Replacing Teeth",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue24&startid=44",
+        "excerpt": "Dental implants have many advantages over older methods of tooth replacement like bridges and dentures — from the way they function and feel to the way they look and last. Vigorous research has documented and confirmed t"
+      },
+      {
+        "title": "The Hidden Consequences of Losing Teeth",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue18&startid=46",
+        "excerpt": "For those missing even one tooth, an unsightly gap is actually the least significant problem. What's of far greater concern is the bone loss that inevitably follows tooth loss. Dental implants can preserve bone, improve "
+      }
+    ]
+  },
+  "treatment/root-canal-treatment": {
+    "title": "Root Canal Treatment",
+    "banner": "/images/tim-and-sharon-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Root canal treatment — also called endodontics (\"endo\" - inside, \"dont\" - tooth) — is a set of specialized procedures designed to treat problems of the soft pulp (nerve) tissue inside the tooth. While some mistakenly think of it as an unusually painful treatment, in most cases the procedure is no more uncomfortable than getting a filling. It's actually one of the most effective ways of <em>relieving</em> some kinds of tooth pain."
+      },
+      {
+        "type": "p",
+        "html": "A root canal procedure becomes necessary when infection or inflammation develops in the pulp tissue of the tooth. Pulp tissue consists of blood vessels, connective tissue and nerve cells — which explains why a problem here may cause you to feel intense pain. In time, the pain may go away... at least temporarily. Without treatment, however, the infection won't. It can lead to a dental abscess, and may even contribute to systemic problems in other parts of the body."
+      },
+      {
+        "type": "h2",
+        "html": "Root Canal Treatment Is Your Friend"
+      },
+      {
+        "type": "p",
+        "html": "We've all heard the gag: \"I'd rather have a root canal...\" This comedy line, comparing the procedure to something truly undesirable, may be funny — but putting off needed endodontic treatment is no joke. The idea that a root canal procedure invariably comes with complications and pain is a shopworn myth. It's certainly true that infection or inflammation in the tooth's pulp can be excruciatingly painful. But you should remember that having a root canal results in eliminating this acute pain and is not the cause of the pain."
+      },
+      {
+        "type": "p",
+        "html": "Need another reason not to delay root canal treatment? How about this: A natural tooth that's saved via root canal treatment and restoration helps you avoid the problems that commonly occur when teeth must be removed. These include unwanted tooth migration or shifting, which can lead to difficulties in chewing; the need for bridgework or dental implants, which may be costly and complicated; and even the eventual loss of bone structure from the area of the missing tooth."
+      },
+      {
+        "type": "h2",
+        "html": "Causes of Root Canal Problems"
+      },
+      {
+        "type": "p",
+        "html": "Root canal problems stem from infection and inflammation of the tooth's pulp tissue. One potential cause of infection is deep tooth decay. Untreated dental cavities eventually allow bacteria to work their way down to the center of the tooth, where they may infect the pulp tissue. Another path by which bacteria may come into contact with pulp is via chipped or cracked teeth. Any opening in the protective enamel coating has the potential to allow bacteria access to the tooth's pulp."
+      },
+      {
+        "type": "p",
+        "html": "Trauma to the tooth — the kind that might result from a sports injury or automobile accident, for example — is also a major cause of pulp tissue damage. In this case, it's essential to seek treatment immediately, both to try and save the tooth, and to prevent future problems."
+      },
+      {
+        "type": "p",
+        "html": "In some cases, extensive dental work itself may cause damage to the pulp tissue that will need to be treated via a root canal. Having multiple fillings or restorations on the same tooth increases the chances of this type of injury. Occasionally, common procedures like crown preparation or orthodontics may eventually lead to root canal problems."
+      },
+      {
+        "type": "h2",
+        "html": "What to Expect During Root Canal Therapy"
+      },
+      {
+        "type": "p",
+        "html": "If an examination shows that you do need root canal therapy, don't worry — it's one of the most routine and effective procedures in the arsenal of dental treatments and can often be accomplished in just one visit."
+      },
+      {
+        "type": "p",
+        "html": "The root canal process generally begins the same way as a filling does, and with no greater discomfort: an anesthetic is administered to numb the tooth and the surrounding area. For many patients, the worst is already over."
+      },
+      {
+        "type": "p",
+        "html": "Next, a small opening is made in the surface of the affected tooth to give access to the pulp chamber and root canals. Tiny instruments are used, sometimes with the aid of a microscope, to remove the dead and dying pulp tissue from inside these narrow passageways. The chamber and empty canals are then cleaned, disinfected, and prepared to receive a filling of inert, biocompatible material. Finally, adhesive cement is used to seal the opening in the tooth, preventing future infection."
+      },
+      {
+        "type": "p",
+        "html": "Following root canal treatment, your tooth may feel some sensitivity or tenderness for a few days. Over-the-counter pain relievers like ibuprofen are generally effective in relieving discomfort, but prescription medications may also be given if needed. During this period, it may help to avoid biting hard on the affected tooth. All of these symptoms, however, should be temporary."
+      },
+      {
+        "type": "p",
+        "html": "To further protect the tooth and restore it to full function, it's usually necessary to have a crown or other restoration placed on it. Restorations can take many forms, from traditional gold crowns to tooth replicas made of high-tech tooth-colored material. In any case, you will have made an investment in preserving your dental health for years to come."
+      },
+      {
+        "type": "h2",
+        "html": "Signs and Symptoms of Root Canal Problems"
+      },
+      {
+        "type": "p",
+        "html": "How do you know when you need a root canal? Sometimes, it's painfully obvious. If you feel constant and severe pain and pressure in your mouth, or noticeable swelling and extreme sensitivity in your gums, then it's clear you need to come in for evaluation and treatment right away. Another telltale symptom of pulp tissue damage is sharp pain when you bite down on food. Lingering pain after eating hot or cold foods is also an indication of potential trouble. If you notice any of these symptoms, please come in for an examination."
+      }
+    ],
+    "images": [],
+    "related": [
+      {
+        "title": "\"I'd Rather Have a Root Canal...\"",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue1&startid=68",
+        "excerpt": "We've all heard that expression, but how true is it? Is root canal treatment really something to be feared, or does it actually offer relief? In this article, a common misconception is demystified. Get the real story abo"
+      },
+      {
+        "title": "Root Canal Treatment for Children's Teeth",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue17&startid=38",
+        "excerpt": "You may think that if a baby tooth comes out prematurely, it's no great loss; after all, it was going to fall out anyway, right? Wrong! Primary (baby) teeth serve as important guides for the permanent teeth that will rep"
+      },
+      {
+        "title": "Tooth Pain? Don't Wait!",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue15&startid=44",
+        "excerpt": "Pain is a protective response that informs the body that something is wrong. Tooth pain, specifically, is caused by a reaction of the nerves inside a tooth's pulp chamber, with the severity dependent upon the type and de"
+      }
+    ]
+  },
+  "treatment/cerec": {
+    "title": "CEREC",
+    "banner": "/images/macie-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "We are proud to provide CEREC 3-D Technology to our patients in need of restorations. The CEREC system has revolutionized the dental field by meeting the needs of our patients in a more convenient manner. Gone are the days where the patient must return for multiple visits to complete a restoration. CEREC Technology can design, fabricate and place a ceramic restoration in just one visit!"
+      },
+      {
+        "type": "h2",
+        "html": "How does CEREC work?"
+      },
+      {
+        "type": "p",
+        "html": "This simple process only takes four steps! First, the decay or old filling is removed, and then the teeth are prepared to be digitally photographed by a 3-D camera, which eliminates those messy, cumbersome, traditional impressions. Next, computer-aided design (CAD) software is used to create a customized restoration specifically to closely match your teeth and meet your unique dental needs. Finally, the restoration will be attached to the tooth and checked for position, placement and bite function. When you leave, you already have your permanent restoration – there is no need for temporaries or follow-up appointments!"
+      },
+      {
+        "type": "h2",
+        "html": "What are the advantages of CEREC?"
+      },
+      {
+        "type": "p",
+        "html": "CEREC holds several advantages over conventional restoration systems, including:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Your restoration is started and completed on the same appointment – no wait times, no temporary crowns, no return visits, no hassle!",
+          "The entire process is usually completed in less than an hour.",
+          "Less need for local anesthetic and fewer shots.",
+          "All CEREC restorations are made from natural-looking, tooth-colored porcelain material that is metal-free, very bio-compatible and plaque-resistant.",
+          "In many cases, healthier tooth structure can be saved since the restoration can be used in place of a full crown."
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Contact us for more information on this high-tech system."
+      }
+    ],
+    "images": [],
+    "related": []
+  },
+  "cosmetic-dentistry/crowns-and-bridgework": {
+    "title": "Crowns and Bridgework",
+    "banner": "/images/bill-and-karen-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Dentistry is an art as well as a science; dental crowns offer a perfect example of this. A dental crown or \"cap\" is a covering that fits over a damaged, decayed or unattractive tooth. It can even replace a tooth entirely as part of dental bridgework."
+      },
+      {
+        "type": "p",
+        "html": "A crown completely covers a tooth above the gum line. This is in contrast to a dental veneer, which only covers a tooth's front surface and needs natural tooth structure to support it. Therefore, if a tooth is missing a significant amount of structure above the gum line, a crown would be the restoration of choice."
+      },
+      {
+        "type": "p",
+        "html": "Crowns strengthen damaged teeth, allowing them to function normally again. When crafted from today's high-tech porcelains (dental ceramics), crowns are virtually indistinguishable from natural teeth. They can even be designed to improve upon a tooth's original appearance."
+      },
+      {
+        "type": "p",
+        "html": "There are other materials besides porcelain that we can use to make dental crowns, depending on what qualities are most important. For durability, cast gold can't be beat. However, this is not always the most aesthetic choice — especially towards the front of the mouth. We would be happy to discuss all of your options with you."
+      },
+      {
+        "type": "h2",
+        "html": "Crowning or Capping a Tooth"
+      },
+      {
+        "type": "p",
+        "html": "Crowning or capping a tooth will usually take two to three visits. At the first visit, we will prepare your tooth to receive its new crown. First we will shape it to fit inside the new covering. This will involve some drilling to give the tooth a uniform shape. We will numb the tooth and the surrounding area beforehand. If there is very little tooth structure left to begin with, we may have to build up the tooth with filling material, rather than remove tooth structure, to support the crown."
+      },
+      {
+        "type": "p",
+        "html": "After the tooth is prepared, we will take impressions of your teeth, either digitally or with reliable, putty-like impression materials, and send them to the dental laboratory. There, the impressions will be used to make models of your teeth for the creation of a crown. The models will serve as guides to the highly skilled lab technicians, who will ensure that your new crown is designed to enhance your smile and function well within your bite."
+      },
+      {
+        "type": "p",
+        "html": "Before you leave the office, we will attach a temporary crown to your tooth to protect it until the permanent crown is ready. At the second visit, your permanent crown will be attached to your tooth with either a resin that hardens when exposed to a special light source, or a type of permanent cement."
+      },
+      {
+        "type": "h2",
+        "html": "Creating a Bridge"
+      },
+      {
+        "type": "p",
+        "html": "Crowns can also be used to create a lifelike replacement for a missing tooth. This is done with bridgework, which spans the space of the missing tooth and requires at least three crowns. Two of those crowns will be placed over healthy teeth on either side of the missing tooth; these healthy teeth are referred to as abutment teeth. The two crowned abutment teeth become supports for a third crown placed in between them; that third crown is referred to as a pontic. If more than one tooth is missing, more crowns will be needed to bridge the gap in between the abutment teeth."
+      },
+      {
+        "type": "p",
+        "html": "The number of abutment teeth necessary to replace missing teeth is influenced by the number of missing teeth, the size and length of the abutment tooth roots, the amount of bone support each abutment tooth has, as well as where in the mouth the missing tooth is located. For example, if you have three missing teeth, four abutment teeth may be necessary, thereby creating a seven-tooth bridge. Engineering and designing of the bridge requires an understanding of how to replace teeth, as well as the biology of the supporting gum and bone tissue."
+      },
+      {
+        "type": "h2",
+        "html": "Caring for Crowns &amp; Bridgework"
+      },
+      {
+        "type": "p",
+        "html": "Crowns and bridgework require the same conscientious care as your natural teeth. Be sure to brush and floss between all of your teeth — restored and natural — every day to reduce the buildup of dental plaque. When you have crowns, it is even more important to maintain your regular schedule of cleanings here at the dental office. Avoid using your teeth as tools (to open packages, for example). If you have a grinding habit, wearing a nightguard would be a good idea to protect your teeth and your investment."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/crown-and-bridge-small.png",
+        "alt": "Dental Crowns and Bridgework."
+      },
+      {
+        "src": "/images/crown-step-by-step.jpg",
+        "alt": "Dental Crowns - Step by Step."
+      },
+      {
+        "src": "/images/bridge-step-by-step.jpg",
+        "alt": "Dental Bridge - Step by Step."
+      },
+      {
+        "src": "/images/crowns-bridgework-dear-doctor.jpg",
+        "alt": "Crowns and Bridgework - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/crown-veneers-dear-doctor.jpg",
+        "alt": "Crowns and Veneers - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Crowns & Bridgework",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue26&startid=26",
+        "excerpt": "Replacing missing teeth — even the ones in back — is important to help restore chewing ability as well as preserve facial contours and reestablish a pleasing smile. Most crowns are made of tooth-colored ceramic materials"
+      },
+      {
+        "title": "Porcelain Crowns & Veneers",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue10&startid=52",
+        "excerpt": "Dear Doctor magazine examines two innovative strategies for improving your smile. In many instances, these two restorative techniques can produce nearly identical aesthetic results, even though they are designed differen"
+      }
+    ]
+  },
+  "cosmetic-dentistry/smile-makeover": {
+    "title": "Smile Makeover",
+    "banner": "/images/christina-and-brent-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Smiling with confidence makes you feel great. A beautiful smile is also an important social and professional asset. Yet there are many people who avoid showing their teeth in public or in photographs because they don't like what they see. If that describes you, then why not let us help you get the smile you've always wanted with a smile makeover?"
+      },
+      {
+        "type": "p",
+        "html": "A smile makeover goes beyond simply responding to dental problems as they arise. It's a comprehensive smile-rejuvenation plan that's uniquely suited to your own facial features and aesthetic preferences. The results can be quite dramatic — both in terms of how you will look and how you will feel. These are the major steps involved:"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Take a look.</strong> The makeover process is all about giving you the smile of your dreams. So take a good look at your smile and note what you like and don't like about it. Some questions you can ask yourself are:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Are your teeth as white as you'd like them to be?",
+          "Are any teeth chipped, cracked or worn?",
+          "Does your smile have a gummy appearance?",
+          "Do your teeth seem too large or small?",
+          "Do you like the alignment and spacing of your teeth",
+          "Are you self-conscious about crookedness or gaps?"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "Remember, beauty is in the eye of the beholder… and that's you! Some people want their smile to look \"perfect\" — and to them, that means completely straight, uniformly white teeth. Others like a slightly more natural look, and are not displeased by slight gaps or shade variations. There are lots of decisions to make, but don't worry — we will help you sort it all out!"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Share your thoughts.</strong> Communication is an extremely important part of the smile makeover process. At our first consultation, it helps if you let us know what you would like to change in as much detail as possible. Bring along pictures of smiles you like, or of how your own smile used to look. We, too, will have some thoughts to share with you because as dentists, we're trained to look at smiles in terms of facial balance. In other words, we look not only at how the elements of a smile (teeth, lips and gums) relate to each other, but also how they blend in with the face as a whole."
+      },
+      {
+        "type": "p",
+        "html": "<strong>Make a plan.</strong> An important part of planning a smile makeover is a comprehensive dental exam. Cosmetic dentistry offers an amazing array of lifelike tooth restorations and treatments; but before we start, we need to make sure to take care of any conditions in your mouth that may jeopardize a good result. If your teeth are discolored, for example, we need to find out why. You may have an underlying dental disease that needs to be treated before whitening your teeth; otherwise, the whitening may not last. Likewise, if you often drink red wine or other beverages that stain, you might do better with porcelain veneers than bleaching treatments."
+      },
+      {
+        "type": "p",
+        "html": "<strong>Try it out.</strong> A smile makeover is an investment that is meant to last. That's why many of the procedures we perform are irreversible. So if you are contemplating some changes, it's a great idea to try them out before you fully commit to them. There are many ways to preview the results: We can use computer imaging, 3-D models, and even put temporary restorations on your teeth so you can see what the final results will look and feel like in your own mouth. This also allows us to fine-tune our makeover plan."
+      },
+      {
+        "type": "p",
+        "html": "A \"trial smile\" is a great way to eliminate unknowns in the makeover process. But when it's all done, there's still one thing you may not be prepared for: how great it feels to flash your new smile to the world!"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/smile-makeover-before-and-after.jpg",
+        "alt": "Before and After Smile Makeover."
+      },
+      {
+        "src": "/images/cosmetic-dentistry-play.jpg",
+        "alt": "Cosmetic Dentistry video"
+      },
+      {
+        "src": "/images/cosmetic-dentistry-dear-doctor.jpg",
+        "alt": "Cosmetic Dentistry - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/smile-makeover-dear-doctor.jpg",
+        "alt": "Smile Makeover - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/smile-design-dear-doctor.jpg",
+        "alt": "Smile Design - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Cosmetic Dentistry — A Time For Change",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue9&startid=46",
+        "excerpt": "We are living in an exciting era in dentistry. Today more than ever before, the healing arts are able to provide cosmetic change to meet the public's ever-increasing expectations. Join Dear Doctor magazine as we review t"
+      },
+      {
+        "title": "The Impact of a Smile Makeover",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue3&startid=28",
+        "excerpt": "Americans are catching on to the emotional and social importance of a healthy, beautiful smile, and they're seeking out ways to improve their smiles. Learn why, and what a smile makeover could mean for you... Read Articl"
+      },
+      {
+        "title": "Beautiful Smiles by Design",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue24&startid=28",
+        "excerpt": "There's more to the art and science of designing a more appealing smile than you might realize. One of the country's foremost leaders in cosmetic dentistry discusses how you and your dentist can partner to create a great"
+      }
+    ]
+  },
+  "cosmetic-dentistry/tooth-colored-fillings": {
+    "title": "Tooth-Colored Fillings",
+    "banner": "/images/storms-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "If you could have fillings that matched the natural color of your teeth so well that nobody could tell the difference, would you choose them over metal?"
+      },
+      {
+        "type": "p",
+        "html": "We thought so! Both scientific studies and clinical experience have shown that tooth-colored restorations (fillings) are safe, reliable and long-lasting. Plus, they look great."
+      },
+      {
+        "type": "p",
+        "html": "Not only do tooth-colored fillings offer an aesthetic alternative to \"silver\" (dental amalgam) fillings that's hard to match — they may also allow for a more conservative treatment method that preserves more of the tooth's structure. When you put these advantages together, it's no wonder more patients are asking for tooth-colored fillings."
+      },
+      {
+        "type": "p",
+        "html": "Tooth-colored fillings are made of a blend, or \"composite,\" of plastic resins and silica fillers. These substances mimic many of the qualities of natural tooth structure, such as wear-resistance and translucency. Dental composites also help strengthen teeth."
+      },
+      {
+        "type": "p",
+        "html": "Based on looks alone, it's easy to see why you'd want a tooth-colored restoration in the front of your mouth. But to understand some of the other advantages composite resins offer — even for back teeth — let's look a little closer at the tooth restoration process."
+      },
+      {
+        "type": "h2",
+        "html": "The Process of Filling a Tooth"
+      },
+      {
+        "type": "p",
+        "html": "There are many reasons why a tooth may need to be filled or restored: decay and chipping are two common ones. No matter which material is chosen, the procedure is almost the same. After the area has been anesthetized (usually by a numbing injection), the tooth is \"prepared\" by removing decay and making it ready for the restoration. Next, the filling material is placed directly into the tooth. Once it has securely bonded to the tooth structure, the process is essentially complete."
+      },
+      {
+        "type": "p",
+        "html": "Now, here's the difference: In order to achieve a good structural bond with a traditional amalgam filling, it is often necessary to shape the tooth by making a series of \"undercuts\" that help hold the material in place. This means that some healthy tooth material must be removed, leaving less of the tooth's structure intact. In time, the structurally-weakened tooth can be prone to cracking."
+      },
+      {
+        "type": "p",
+        "html": "But composite resin fillings don't require undercutting to make a strong union — instead, they form an intimate physical and mechanical bond directly to the prepared tooth. This more conservative treatment may ultimately lead to a better and longer-lasting restoration."
+      },
+      {
+        "type": "h2",
+        "html": "Using Tooth-Colored Fillings"
+      },
+      {
+        "type": "p",
+        "html": "Composite resins are generally appropriate for small to moderate-sized restorations — which encompass the most common types of fillings. They are durable, fracture-resistant, and able to withstand chewing pressure. Depending on how much of the tooth needs restoration, the procedure may be accomplished in just one visit. Alternatively, if a large volume of tooth material must be replaced, a part may be fabricated outside the mouth and later bonded to the tooth."
+      },
+      {
+        "type": "p",
+        "html": "Whatever the situation, the best way to determine whether tooth-colored fillings are right for you is to come in and consult with us. We can explain the appropriate options and help you select the best way to proceed with treatment. Working together, we can help you achieve — and keep — a healthy-looking smile."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/metal-vs-tooth-colored-fillings.jpg",
+        "alt": "Metal fillings vs tooth-colored fillings."
+      },
+      {
+        "src": "/images/tooth-fillings-dear-doctor.jpg",
+        "alt": "Tooth-Colored Fillings - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/tooth-decay-dear-doctor.jpg",
+        "alt": "Tooth Decay - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/tooth-decay-risk.jpg",
+        "alt": "Tooth Decay - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "The Natural Beauty of Tooth-Colored Fillings",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue8&startid=36",
+        "excerpt": "The public's demand for aesthetic tooth-colored (metal free) restorations (fillings) together with the dental profession's desire to preserve as much natural tooth structure as possible, has led to the development of spe"
+      },
+      {
+        "title": "What is Tooth Decay? - And How to Prevent It!",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue6&startid=26",
+        "excerpt": "Tooth Decay is an infection, and many people don't realize that it is preventable. This article is the first in a series about tooth decay, perhaps the number one reason children and adults lose teeth during their lifeti"
+      },
+      {
+        "title": "Tooth Decay - How To Assess Your Risk",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue12&startid=36",
+        "excerpt": "Don't wait for cavities to occur and then have them fixed — stop them before they start. Modern dentistry is moving towards an approach to managing tooth decay that is evidence-based — on years of accumulated, systematic"
+      }
+    ]
+  },
+  "cosmetic-dentistry/botox-dermal-fillers": {
+    "title": "BOTOX",
+    "banner": "/images/fridley-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Are you surprised Polished Dental can offer BOTOX ?"
+      },
+      {
+        "type": "p",
+        "html": "Wondering why a dentist would offer these services?"
+      },
+      {
+        "type": "p",
+        "html": "BOTOX is a trusted product, administered over 7 million times a year and has been in the market for over 13 years. The most common uses for BOTOX is smoothing of the facial wrinkles of the forehead, between the eyes (glabellar region), around the corners of the eyes (crow’s feet) and lines around the lips. These most common cosmetic uses have put the treatment on the aesthetic map, but did you know that BOTOX is also a helpful tool to your dentist? When you first hear that you can be treated with BOTOX at your dentist’s office it may sound strange, as dentists haven’t done much marketing for the service and product, but consider some facts about your dentist:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Dentists are trained doctors and practiced in the facial musculoskeletal systems.",
+          "Dentists precisely understand your face muscles.",
+          "Dentists are already trained and experienced at using BOTOX to treat dental problems like TMJ (Temporomandibular joint) disorders and reducing fatigue of teeth clenching with the use of BOTOX.",
+          "Your dentist is already a trusted and knowledgeable provider of BOTOX for multiple facial needs!"
+        ]
+      },
+      {
+        "type": "h2",
+        "html": "So how can getting BOTOX from your dentist help you?"
+      },
+      {
+        "type": "p",
+        "html": "Primarily used in the face, around your eyes and mouth areas, BOTOX helps relieve headaches and muscle tension stress along with the wrinkles associated with them. Your dentist is focused on making sure you maintain a healthy smile that makes you feel good. You can benefit from the extensive musculoskeletal education and training your dentist has to reduce frown lines and the look of aging to brighten up your smile and your face."
+      },
+      {
+        "type": "p",
+        "html": "Just like other physicians who are licensed and trained in providing injections, dentists are health care practitioners who deliver professional health and wellness services to patients. Dr. Jim &amp; Dr. Kristin received their certificates for completed training from the American Academy of Facial Esthetics to offer BOTOX to patients as a stand-alone service or as a compliment to cosmetic dentistry. As qualified and experienced dentists, they are very well-trained in the musculature and anatomy of the face and are proud to offer thoughtful, well placed injections to our valued patients."
+      }
+    ],
+    "images": [],
+    "related": []
+  },
+  "cosmetic-dentistry/kor-whitening": {
+    "title": "KöR Whitening",
+    "banner": "/images/fridley-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Developed by internationally renowned cosmetic dentist and bleaching expert, Dr. Rod Kurthy, the KöR Whitening System is used by thousands of dentists worldwide and is widely considered to be the most reliable and effective whitening system ever developed."
+      },
+      {
+        "type": "p",
+        "html": "The KöR Whitening system has proven to consistently produce whiter, brighter smiles in patients. In fact, the KöR system is so effective, it is the only recognized whitening system that whitens tetracycline-stained (dark) teeth in a short time (previously considered impossible). And due to its advanced formulation and continuous refrigeration of the whitening gels, there's little to no sensitivity during the whitening process."
+      },
+      {
+        "type": "h2",
+        "html": "<b>The Unique KöR-Seal Trays</b>"
+      },
+      {
+        "type": "p",
+        "html": "A key to the effectiveness of the KöR system are the unique KöR-Seal™ trays used for at-home whitening. These trays are made of thin clear flexible vinyl and are carefully fabricated to fit precisely to your teeth. Most patients find these trays extremely comfortable to wear and have no trouble sleeping with them. These unique KöR-Seal trays allow room for bleaching gel to be kept in contact with the teeth, and they seal at the gum line so that gel is not diluted, or washed away, by saliva. This ensures the maximum whitening results."
+      },
+      {
+        "type": "p",
+        "html": "And the KöR Whitening System is perfect for patients of all ages, including teenagers and baby boomers."
+      },
+      {
+        "type": "h2",
+        "html": "How Does KöR Whitening Work?"
+      },
+      {
+        "type": "p",
+        "html": "The KöR Whitening System works by restoring your teeth's ability to absorb oxygen. The oxygen from KöR's whitening gel is absorbed deeply into your teeth, dissolving all stain molecules, leaving your teeth incredibly white. And KöR Whitening products have been clinically proven safe on thousands of patients without harming teeth or gums."
+      },
+      {
+        "type": "p",
+        "html": "The KöR Whitening System is a safe, effective, and convenient cosmetic dentistry procedure that can improve the appearance of teeth to restore self-esteem and self-confidence."
+      },
+      {
+        "type": "p",
+        "html": "So, if you're too embarrassed to smile, have dark-stained teeth, or just simply want a whiter smile, the KöR Whitening System offers the best in whitening science, and is by far the best whitening system available today."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/kor-customer-web-slider.jpg",
+        "alt": "Banner"
+      }
+    ],
+    "related": []
+  },
+  "pediatric-dentistry/dental-sealants": {
+    "title": "Dental Sealants",
+    "banner": "/images/schoch-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "The most likely location for a cavity to develop in your child's mouth is on the chewing surfaces of the back teeth. Run your tongue over this area in your mouth, and you will feel the reason why: These surfaces are not smooth, as other areas of your teeth are. Instead, they are filled with tiny grooves referred to as \"pits and fissures,\" which trap bacteria and food particles. The bristles on a toothbrush can't always reach all the way into these dark, moist little crevices. This creates the perfect conditions for tooth decay."
+      },
+      {
+        "type": "p",
+        "html": "What's more, a child's newly erupted permanent teeth are not as resistant to decay as adult teeth are. The hard enamel coating that protects the teeth changes as it ages to become stronger. Fluoride, which is found in toothpaste and some drinking water — and in treatments we use here at the dental office — can strengthen enamel, but, again, it's hard to get fluoride into those pits and fissures on a regular basis. Fortunately, there is a good solution to this problem: dental sealants."
+      },
+      {
+        "type": "p",
+        "html": "Dental sealants are invisible plastic resin coatings that smooth out the chewing surfaces of the back teeth, making them resistant to decay. A sealed tooth is far less likely to develop a cavity, require more expensive dental treatment later on, or, most importantly, cause your child pain."
+      },
+      {
+        "type": "h2",
+        "html": "How Sealants Are Placed"
+      },
+      {
+        "type": "p",
+        "html": "You can think of a sealant as a mini plastic filling, though please reassure your child that it doesn't \"count\" as having a cavity filled. Because tooth enamel does not contain any nerves, placing a sealant is painless and does not routinely require numbing shots. First we will examine the tooth or teeth to be sealed, and if any minimal decay is found, it will be gently removed. The tooth will then be cleaned and dried. Then we will apply a solution that will slightly roughen or \"etch\" the surface, to make the sealing material adhere better. The tooth is then rinsed and dried again. The sealant is then painted on the tooth in liquid form and hardens in about a minute, sometimes with the help of a special curing light. That's all there is to it!"
+      },
+      {
+        "type": "p",
+        "html": "A note about BPA: A 2012 study that received wide press coverage raised concerns that trace amounts of the chemical bisphenol-A (BPA) found in some (but not all) dental resins might contribute to behavioral problems in children. The study authors noted that while they had found an association, they had not actually proven that BPA in dental sealants causes these problems. In fact, BPA is far more prevalent in food and beverage packaging than in dental restorative materials. The American Academy of Pediatric Dentistry and the American Dental Association have since reaffirmed their support for the use of sealants. We would be happy to answer any questions you may have regarding this issue."
+      },
+      {
+        "type": "h2",
+        "html": "Taking Care of Sealants"
+      },
+      {
+        "type": "p",
+        "html": "Sealed teeth require the same conscientious dental hygiene as unsealed teeth. Your child should continue to brush and floss his or her teeth daily and visit us for regular professional cleanings. This will give us a chance to check for wear and tear on the sealants, which should last for up to 10 years. During this time, your child will benefit from a preventive treatment proven to reduce decay by more than 70 percent."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/toothbrush-cleaning-teeth.jpg",
+        "alt": "Toothbrush unable to clean grooves in teeth."
+      },
+      {
+        "src": "/images/sealants-step-by-step.jpg",
+        "alt": "Dental Sealants - Step by Step."
+      },
+      {
+        "src": "/images/sealants-dear-doctor.jpg",
+        "alt": "Sealants - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/tooth-decay-dear-doctor.jpg",
+        "alt": "Tooth Decay - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/oral-health-dear-doctor.jpg",
+        "alt": "Oral Health - Dear Doctor Magazine"
+      },
+      {
+        "src": "/images/oral-health-tips-dear-doctor.jpg",
+        "alt": "Top 10 Tips for Children - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Sealants for Children",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue1&startid=66",
+        "excerpt": "The tiny grooves in your child's back teeth are ideal places for cavities to form. But you can take a proactive role in preventing this with dental sealants. These are protective plastic resin coatings placed in these ti"
+      },
+      {
+        "title": "Tooth Decay — A Preventable Disease",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue6&startid=26",
+        "excerpt": "Tooth Decay is perhaps the number one reason children and adults lose teeth during their lifetime. Yet many people don't realize that it is a preventable infection. This article explores the causes of tooth decay, its pr"
+      },
+      {
+        "title": "How to Help Your Child Develop the Best Habits for Oral Health",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue20&startid=48",
+        "excerpt": "Proper oral health habits are easy to learn — and lead to behaviors that result in lifelong dental health. And the time to begin is as soon as your child's first baby teeth appear. From toothbrushing for your toddler to "
+      },
+      {
+        "title": "Top 10 Oral Health Tips for Children",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue19&startid=16",
+        "excerpt": "There's no need to wait until your baby actually has teeth to lay the foundations for good oral or general health. In fact, good nutrition and oral hygiene can start right away. It is up to you to develop the routines th"
+      }
+    ]
+  },
+  "pediatric-dentistry/nitrous-oxide": {
+    "title": "Nitrous Oxide",
+    "banner": "/images/kylie-and-behrendt-s-wall-portraits-for-polished-dental-24.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Some children are just too fearful to receive necessary dental care. In that type of situation, we may recommend conscious sedation with nitrous oxide to help make your child's experience of dental treatment stress-free."
+      },
+      {
+        "type": "p",
+        "html": "Nitrous oxide, a colorless gas with a slightly sweet odor, has been used in medicine for about a century. It's a safe and effective method of administering conscious sedation, which means that a child (or adult) will stay awake during the procedure, but feel completely relaxed — even happy. All bodily functions remain normal during the administration of nitrous oxide, and its effects wear off quickly afterwards."
+      },
+      {
+        "type": "h2",
+        "html": "How Is Nitrous Oxide Administered?"
+      },
+      {
+        "type": "p",
+        "html": "As a form of conscious sedation, nitrous oxide is inhaled through a small mask that fits comfortably over a child's nose. The gas is mixed with oxygen as it is being delivered, and both gases are always kept at a level that is safe for the body. In just a few minutes, the patient may start to experience a floating sensation, and perhaps some tingling in the hands and feet. That's a sign that the sedation is working. Once it has been verified that your child is calm and comfortable, and that the dose is correct, the dental procedure can begin."
+      },
+      {
+        "type": "p",
+        "html": "Nitrous oxide itself isn't a substitute for a local anesthetic in children or adults as it's considered an anxiolytic, which means it makes anxiety disappear. However, for some pediatric procedures, a child receiving nitrous oxide may not need an anesthetic injection. Even if they do need a numbing shot, they won't mind at all while under sedation with nitrous oxide. Yet they won't be asleep — they'll be able to speak, be aware of what's going on, and they will remain in control during the procedure. In fact, the dose can be fine-tuned to just the level of sedation they need to make them comfortable yet alert."
+      },
+      {
+        "type": "p",
+        "html": "When the procedure is over, the flow of nitrous oxide is decreased to zero, and the oxygen will be increased. After resting in the chair for a few minutes, the child will feel completely normal."
+      },
+      {
+        "type": "h2",
+        "html": "Who Can Benefit From Nitrous Oxide?"
+      },
+      {
+        "type": "p",
+        "html": "Any child whose anxiety would otherwise keep them out of the dental chair can benefit from conscious sedation with nitrous oxide. Before beginning treatment, we will take a complete medical history, including any medications your child is taking. We will make sure that your child is safe and comfortable. In fact, we sometimes create a fantasy of your child being an airplane pilot wearing their flight mask to encourage their imagination so that they have a good time during treatment. Afterwards, they will likely not remember a thing."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/child-in-dental-chair.jpg",
+        "alt": "Child in dental chair."
+      },
+      {
+        "src": "/images/nitrous-oxide.jpg",
+        "alt": "Nitrous Oxide for children."
+      },
+      {
+        "src": "/images/stress-free-dentistry-dear-doctor.jpg",
+        "alt": "Taking the Stress Out of Dentistry for Kids - Dear Doctor Magazine"
+      }
+    ],
+    "related": [
+      {
+        "title": "Taking the Stress Out of Dentistry for Kids",
+        "href": "https://www.deardoctor.com/library/70002/?issue=issue25&startid=42",
+        "excerpt": "Finding a dental practice should be like finding your child a cuddly warm blanket — a comfortable and secure environment in which real communication can occur. Nowadays, all parents and child caregivers should be saying "
+      }
+    ]
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "banner": "/images/header-contact.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "Effective April 14, 2003"
+      },
+      {
+        "type": "p",
+        "html": "This notice describes how medical information about you may be used and disclosed and how you can obtain access to this information. Please review it carefully."
+      },
+      {
+        "type": "h3",
+        "html": "Introduction"
+      },
+      {
+        "type": "p",
+        "html": "We are required by law to maintain the privacy of “protected health information.” “Protected health information” includes any identifiable information that we obtain from you or others that relates to your physical or mental health, the health care you have received, or payment for your health care."
+      },
+      {
+        "type": "p",
+        "html": "As required by law, this notice provides you with information about your rights and our legal duties and privacy practices with respect to the privacy of protected health information. This notice also discusses the uses and disclosures we will make of your protected health information. We must comply with the provisions of this notice, although we reserve the right to change the terms of this notice from time to time and to make the revised notice effective for all protected health information we maintain. You can always request a copy of our most current privacy notice from our office."
+      },
+      {
+        "type": "h3",
+        "html": "Permitted Uses and Disclosures"
+      },
+      {
+        "type": "p",
+        "html": "We can use or disclose your protected health information for purposes of treatment, payment and health care operations."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Treatment means the provision, coordination or management of your health care, including consultations between health care providers regarding your care and referrals for health care from one health care provider to another. For example, a doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process. Therefore, the doctor may review your medical records to assess whether you have potentially complicating conditions like diabetes.",
+          "Payment means activities we undertake to obtain reimbursement for the health care provided to you, including determinations of eligibility and coverage and other utilization review activities. For example, prior to providing health care services, we may need to provide to your insurance carrier (or other third party payor) information about your medical condition to determine whether the proposed course of treatment will be covered. When we subsequently bill the carrier or other third party payor for the services rendered to you, we can provide the carrier or other third party payor with information regarding your care if necessary to obtain payment.",
+          "Health Care Operations mean the support functions of our practice related to treatment and payment, such as quality assurance activities, case management, receiving and responding to patient complaints, physician reviews, compliance programs, audits, business planning, development, management and administrative activities. For example, we may use your medical information to evaluate the performance of our staff in caring for you. We may also combine medical information about many patients to decide what services are not needed, and whether certain new treatments are effective."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Disclosures Related To Communications With You Or Your Family"
+      },
+      {
+        "type": "p",
+        "html": "We may contact you to provide appointment reminders or information about treatment alternatives or other health-related benefits and services that may be of interest to you or relate specifically to your medical care through our office. For example, we may leave appointment reminders on your answering machine or with a family member or other person who may answer the telephone at the number that you have given us in order to contact you."
+      },
+      {
+        "type": "p",
+        "html": "We may disclose your protected health information to your family or friends or any other individual identified by you when they are involved in your care or the payment for your care. We will only disclose the protected health information directly relevant to their involvement in your care or payment. We may also use or disclose your protected health information to notify, or assist in the notification of, a family member, a personal representative, or another person responsible for your care of your location, general condition or death. If you are available, we will give you an opportunity to object to these disclosures, and we will not make these disclosures if you object. If you are not available, we will determine whether a disclosure to your family or friends is in your best interest, and we will disclose only the protected health information that is directly relevant to their involvement in your care."
+      },
+      {
+        "type": "p",
+        "html": "We will allow your family and friends to act on your behalf to pick up prescriptions, medical supplies, X-rays, and similar forms of protected health information, when we determine, in our professional judgment, that it is in your best interest to make such disclosures."
+      },
+      {
+        "type": "h3",
+        "html": "Other Situations"
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Organ and Tissue Donation.</strong></em> If you are an organ donor, we may release medical information to organizations that handle organ procurement or organ, eye or tissue transplantation or to an organ donation bank, as necessary to facilitate organ or tissue donation and transplantation."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Military and Veterans.</strong></em> If you are a member of the Armed Forces, we may release medical information about you as required by military command authorities. We may also release medical information about foreign military personnel to the appropriate foreign military authority."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Public Health Risks.</strong></em> We may disclose medical information about you for public health activities. These activities generally include the following:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "To prevent or control disease, injury or disability",
+          "To report births and deaths",
+          "To report victim of abuse, neglect, or domestic violence",
+          "To report reactions to medications",
+          "To notify people of product, recalls, repairs or replacements",
+          "To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Health Oversight Activities.</strong></em> We may disclose medical information to federal or state agencies that oversee our activities. These activities are necessary for the government to monitor the health care system, government programs, and compliance with civil rights laws. We may disclose protected health information to persons under the Food and Drug Administration’s jurisdiction to track products or to conduct post-marketing surveillance."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Lawsuits and Disputes.</strong></em> If you are involved in a lawsuit or dispute, we may disclose medical information about you in response to a court or administrative order. We may also disclose medical information about you in a response to a subpoena, discovery request or other lawful process by someone else involved in the dispute."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Law Enforcement.</strong></em> We may release medical information if asked to do so by a law enforcement official:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "In response to a court order, subpoena, warrant, summons or similar process",
+          "To identify or locate a suspect, fugitive, material witness, or missing person",
+          "About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person’s agreement",
+          "About a death we believe may be the result of a criminal conduct",
+          "About criminal conduct on our premises",
+          "In emergency circumstances to report a crime; the location of the crime or victims or the identity, description or location of the person who committed the crime"
+        ]
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Coroners, Medical Examiners and Funeral Directors.</strong></em> We may release medical information to a coroner or medical examiner. This may be necessary, for example, to identify a deceased person or determine the cause of death. We may also release medical information about patients to funeral directors as necessary to carry out their duties."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Inmates.</strong></em> If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release medical information about you to the correctional institution or law enforcement official. This release would be necessary for the institution to provide you with health care, to protect your health and safety or the health and safety of others, or for the safety and security of the correctional institution."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Serious Threats.</strong></em> As permitted by applicable law and standards of ethical conduct, we may use and disclose protected health information if we, in good faith, believe that the use of disclosure is necessary to prevent or lessen a serious and imminent threat to the health or safety of a person or the public."
+      },
+      {
+        "type": "p",
+        "html": "<em><strong>Disaster Relief.</strong></em> When permitted by law, we may coordinate our uses and disclosures of protected health information with public or private entities authorized by law or by charter to assist in disaster relief efforts."
+      },
+      {
+        "type": "h3",
+        "html": "Your Rights"
+      },
+      {
+        "type": "ol",
+        "items": [
+          "You have the right to request restrictions on our uses and disclosures of protected health information for treatment, payment and health care operations. However, we are not required to agree to your request.",
+          "You have the right to reasonably request to receive communications of protected health information by alternative means or at alternative locations.",
+          "<p>Subject to payment of a reasonable copying charge as provided by state law, you have the right to inspect or obtain a copy of the protected health information contained in your medical and billing records and in any other practice records used by us to make decisions about you, except for:</p> <ul> <li>Psychotherapy notes, which are notes recorded by a mental health professional documenting or analyzing the contents of conversation during a private counseling session or a group, joint or family counseling session and that have been separated from the rest of your medical record</li> <li>Information compiled in a reasonable anticipation of, or for use in, a civil, criminal, or administrative action or proceeding.</li> <li>Protected health information involving laboratory tests when your access is required by law</li> <li>If you are a prison inmate and obtaining such information would jeopardize your health, safety, security, custody, or rehabilitation or that of other inmates, or the safety of any officer, employee, or other person at the correctional institution or person responsible for transporting you</li> <li>If we obtained or created protected health information as part of a research study for as long as the research is in progress, provided that you agreed to the temporary denial of access when consenting to participate in the research</li> <li>Your protected health information is contained in records kept by a federal agency or contractor when your access is required by law</li> <li>If the protected health information was obtained from someone other than us under a promise of confidentiality and the access requested would be reasonably likely to reveal the source of the information</li> </ul> <p>We may also deny a request for access to protected health information if:</p> <ul> <li>A licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to endanger your life or physical safety or that of another person</li> <li>The protected health information makes reference to another person (unless such other person is a health care provider) and a licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to cause substantial harm to such other person</li> <li>The request for access is made by the individual’s personal representative and a licensed health care professional has determined, in the exercise of professional judgment, that the provision of access to such personal representative is reasonably likely to cause substantial harm to you or another person</li> </ul> <p>If we deny a request for access for any of the three reasons described above, then you have the right to have our denial reviewed in accordance with the requirements of applicable law.</p>",
+          "<p>You have the right to request a correction to your protected health information, but we may deny your request for correction, if we determine that the protected health information or record that is the subject of the request:</p> <ul> <li>Was not created by us, unless you provide a reasonable basis to believe that the originator of protected health information is no longer available to act on the requested amendment</li> <li>Is not part of your medical or billing records</li> <li>Is not available for inspection as set forth above</li> <li>Is not accurate and complete</li> </ul> <p>In any event, any agreed upon correction will be included as an addition to, and not a replacement of, already existing records.</p>",
+          "<p>You have the right to receive an accounting of disclosures of protected health information made by us to individuals or entities other than to you for the period provided by law, except for disclosures:</p> <ul> <li>To carry out treatment, payment and health care operations as provided above</li> <li>To persons involved in your care or for other notification purposes as provided by law</li> <li>For national security or intelligence purposes as provided by law</li> <li>To correctional institutions or law enforcement officials as provided by law</li> <li>That occurred prior to April 14, 2003</li> <li>That are otherwise not required by law to be included in the accounting</li> </ul>",
+          "You have the right to request and receive a paper copy of this notice from us.",
+          "The above rights may be exercised only by written communication to us. Any revocation or other modification of consent must be in writing delivered to us."
+        ]
+      },
+      {
+        "type": "h3",
+        "html": "Complaints"
+      },
+      {
+        "type": "p",
+        "html": "If you believe that your privacy rights have been violated, you should immediately contact our Practice or our Privacy Officer. All complaints must be submitted in writing. We will not take action against you for filing a complaint. You also may file a complaint with the Secretary of Health and Human Services."
+      }
+    ],
+    "images": [],
+    "related": []
+  },
+  "office/meet-our-doctors": {
+    "title": "Meet Our Doctors",
+    "banner": "/images/our-doctors.jpg",
+    "blocks": [
+      {
+        "type": "h2",
+        "html": "James A. Nelson, D.D.S."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Jim Nelson was born and raised in the small town of Ortonville, MN. He attended North Dakota State University (1978-1981) for his undergraduate studies. He was accepted to the University of Minnesota Dental School in 1981 and graduated with honors in 1985. He has been practicing dentistry in Bismarck ever since."
+      },
+      {
+        "type": "p",
+        "html": "In 1985, Dr. Jim founded Kirkwood Dental in the Kirkwood Mall. In 2003, when his new dental office was built, the name was changed to Nelson Family Dentistry. With the recent addition of a new partner, Dr. Kristin, Polished Dental was established. Dr. Jim prides himself on being dedicated to providing high quality dentistry and ethical treatment to all patients. He very much enjoys the daily interaction with his patients and continues to love the art of dentistry. Dr. Jim is a member of the American Dental Association (ADA), the North Dakota Dental Association, the Missouri Slope Dental Society, and the American Academy of Facial Esthetics. "
+      },
+      {
+        "type": "p",
+        "html": "Dr. Jim has been married to the love of his life, Lorri (Behrendt) Nelson, since 1980. They enjoy entertaining family and friends, spending quality time with all their nieces and nephews and hosting fund-raisers. In his spare time, he enjoys hunting, ranching, yard work, traveling, designing and construction of buildings, remodeling projects, music, movies and theatre. Dr. Jim also has a soft spot in his heart for animals. He and his wife have fostered many cats over the years and now have two cats of their own, Tinkerbell and Cinderella."
+      },
+      {
+        "type": "h2",
+        "html": "Kristin R. Schoch, D.D.S."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Kristin (Kovar) Schoch is originally from New England, North Dakota. She is an honor graduate of New England High School. Dr. Kristin completed her undergraduate studies at Dickinson State University where she graduated Magna Cum Laude with a Bachelor's degree in Biology. She graduated from the University of Colorado School of Dental Medicine in Denver, Colorado. She is a member of the American Dental Association, SPEAR study club, CEREC Doctors Mentor, the North Dakota Dental Association, the Academy of General Dentistry, the Missouri Slope Dental Society, the American Academy of Facial Esthetics, and the Delta Sigma Delta Dental Fraternity."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Kristin is married to her childhood sweetheart, Brock, who is from Mohall, North Dakota. They are the proud parents of three children. Dr. Kristin enjoys spending time with family and friends, going on walks, reading, jogging and being outdoors."
+      },
+      {
+        "type": "p",
+        "html": "She understands the value of hard work, prides herself on having solid ethics and cherishes the opportunity to work in a team environment."
+      },
+      {
+        "type": "h2",
+        "html": "Kourtney A. (Rummel) Grace, D.M.D."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Kourtney Grace was born and raised in the Bismarck/Mandan area. She is an honor graduate of Saint Mary's Central High School and graduated Magna Cum Laude in Biology at the University of Mary. Dr. Kourtney graduated from the Lake Erie College of Osteopathic Medicine School of Dentistry in Brandenton, Florida. From there she began her career practicing in Chandler, Arizona but is excited to return to Bismarck and care for the community she grew up in."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Kourtney enjoys spending time outside, traveling, and above all, being with her husband Patrick and their two Westie pups, Kota and Portia."
+      },
+      {
+        "type": "p",
+        "html": "Dr. Kourtney's passion for dentistry stems from providing gentle and compassionate dental care to all of her patients. She enjoys connecting with every person that comes through the door and providing treatment tailored to meet each individual's needs."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/2025-Jim.jpg",
+        "alt": "Dr Jim"
+      },
+      {
+        "src": "/images/2025-Kristin.jpg",
+        "alt": "Dr Kristin"
+      },
+      {
+        "src": "/images/2025-Kourtney.jpg",
+        "alt": "Dr Kourtney"
+      }
+    ],
+    "related": []
+  },
+  "office/meet-the-staff": {
+    "title": "Meet the Staff",
+    "banner": "/images/staff-page-header-thumb.jpg",
+    "blocks": [
+      {
+        "type": "h2",
+        "html": "Dental Hygienists"
+      },
+      {
+        "type": "h2",
+        "html": "Brianne"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Carrie"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Cindy"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Heidi"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Jenny"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Kayla S"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Mikaila"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Hygienist"
+      },
+      {
+        "type": "h2",
+        "html": "Dental Assistants"
+      },
+      {
+        "type": "h2",
+        "html": "Bobbi"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Bonita"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Brittney"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Hallie"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Jubilee"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Julie"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Kayla H"
+      },
+      {
+        "type": "h3",
+        "html": "Dental Assistant"
+      },
+      {
+        "type": "h2",
+        "html": "Admin"
+      },
+      {
+        "type": "h2",
+        "html": "Brandi"
+      },
+      {
+        "type": "h3",
+        "html": "Insurance Processor"
+      },
+      {
+        "type": "h2",
+        "html": "Dina"
+      },
+      {
+        "type": "h3",
+        "html": "Treatment Coordinator"
+      },
+      {
+        "type": "h2",
+        "html": "Lacey"
+      },
+      {
+        "type": "h3",
+        "html": "Practice Manager"
+      },
+      {
+        "type": "h2",
+        "html": "Macie"
+      },
+      {
+        "type": "h3",
+        "html": "Treatment Coordinator"
+      },
+      {
+        "type": "h2",
+        "html": "Laura"
+      },
+      {
+        "type": "h3",
+        "html": "Treatment Coordinator"
+      },
+      {
+        "type": "h2",
+        "html": "Stephanie"
+      },
+      {
+        "type": "h3",
+        "html": "Patient Relations"
+      },
+      {
+        "type": "h2",
+        "html": "Tanna"
+      },
+      {
+        "type": "h3",
+        "html": "Patient Relations"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/no_image_300.jpg",
+        "alt": "Laura - Image coming soon"
+      }
+    ],
+    "related": []
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "banner": "/images/front-desk-resized.jpg",
+    "blocks": [
+      {
+        "type": "p",
+        "html": "<br/> We are always available to talk with you and address your concerns. Please feel free to contact us during the following hours through our office phone number or e-mail address. After hours, you may contact us through our answering machine."
+      },
+      {
+        "type": "p",
+        "html": "Monday - Thursday: 7:00 a.m. - 4:00 p.m.<br/> Friday: <em>morning emergency calls</em>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Summer Hours (June, July &amp; August)</strong><br/> Monday - Thursday: 7:00 a.m. - 3:30 p.m.<br/> Friday: <em>morning emergency calls</em>"
+      },
+      {
+        "type": "h2",
+        "html": "Polished Dental"
+      },
+      {
+        "type": "p",
+        "html": "1700 E. Interstate Ave.<br/> Bismarck, ND 58503<br/> <a href=\"/office/map-and-directions\" returnvalue=\"/office/map-and-directions/map-and-directions,,Page,_self,,,false,false,false,false,d1188d50-afcf-4408-8c4a-c9c7674bd19f,;NoWatch\" title=\"Map &amp;amp; Directions\">Map &amp; Directions</a>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>Phone:</strong> 701-222-GRIN (4746)<br/> <strong>Toll Free:</strong> 1-800-600-4746<br/> <strong>Fax:</strong> 701-222-1783<br/> <strong>E-mail:</strong> <a href=\"info@polished-dental.net\" rel=\"nofollow\">info@polished-dental.net</a>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/behrendt-contact-us.jpg",
+        "alt": "2 girls hugging"
+      }
+    ],
+    "related": []
+  },
+  "patient/faq": {
+    "title": "FAQ",
+    "banner": "/images/fridley-resized.jpg",
+    "blocks": [
+      {
+        "type": "h2",
+        "html": "<strong>Q. How often should I see a dentist?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> The American Dental Association (ADA) recommends visiting a dentist at least twice a year for a check-up and a professional cleaning. Our office also recommends a minimum of two visits per year."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. What do I do if I have a dental emergency?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> Please call our office as soon as you determine that you have a dental emergency. If you have a dental emergency during regular business hours, we will be glad to work you into our schedule. After hours, over the weekend and during holidays, please call our office for the doctor's emergency contact number."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. What kind of toothbrush should I use?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> Adults should use a small-to-medium size toothbrush with soft-to-medium bristles. The head of the brush needs to be small enough to brush all areas of the mouth thoroughly, specifically the back of the mouth, which can be hard to reach. Children should use small toothbrushes with soft bristles. People with sensitive teeth can benefit from using gentle, soft bristled toothbrushes."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. How often should I replace my toothbrush?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> The American Dental Association recommends that you replace your brush every 3 to 4 months. With each use, the bristles become worn and cleaning effectiveness decreases. Depending on your oral health, you may need to replace your brush sooner. Typically, children toothbrushes need to be replaced more regularly than adults."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. Is a powered toothbrush more effective than a manual toothbrush? </strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> Generally, manual toothbrushes are just as effective as powered toothbrushes. Children may find brushing with a powered toothbrush more exciting. If you have difficulty using a manual toothbrush, a powered toothbrush may be much more comfortable and easier to use."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. Should I brush or floss first?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> As long as you brush and floss thoroughly, it does not matter if you brush then floss or floss then brush. However, flossing before brushing enables the fluoride in your toothpaste to better reach the areas between the teeth."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. Is one type of toothpaste better than the others?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> No. However, we recommend you use a toothpaste that contains fluoride and carries the ADA Seal of Acceptance, which means it has been assessed for safety and effectiveness. Studies consistently show that fluoride helps strengthen and rebuild tooth structure, and helps prevent dental decay."
+      },
+      {
+        "type": "h2",
+        "html": "<strong>Q. Are payment plans available for my dental treatment?</strong>"
+      },
+      {
+        "type": "p",
+        "html": "<strong>A.</strong> Yes. We accept most major credit cards and many types of dental insurance. We will process your insurance claim for you upon receipt of your co-payment."
+      }
+    ],
+    "images": [
+      {
+        "src": "/images/s-smile.jpg",
+        "alt": "s-smile.jpg"
+      }
+    ],
+    "related": []
+  }
+}
